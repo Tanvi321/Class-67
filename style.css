@@ -1,0 +1,19 @@
+body
+{text-align: center;}
+
+h1
+{font-size: 40px;
+font-family:'Indie Flower', cursive;
+font-weight: 300;}
+
+#apps
+{background-color: rgb(107, 199, 199);}
+
+#games
+{background-color: rgb(226, 197, 222);}
+
+.line
+{height: 6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;}
